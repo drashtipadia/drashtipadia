@@ -1,6 +1,5 @@
 -  Hi, I’m @drashtipadia
--  I’m interested in web development
--  I’m currently learning larvel ...
+-  I’m interested in web development 
 - Currently work on Student Mangement System 
  <!---
 drashtipadia/drashtipadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
