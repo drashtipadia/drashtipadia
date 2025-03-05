@@ -20,7 +20,7 @@ I'm a passionate web developer with a love for technology and continuous learnin
 ## Languages and Tools
 - **Languages**: C, C++, HTML, Css, JavaScript, PHP, Java
 - **Frameworks**: React, Node.js, Bootstrap, TailwindCSS, Laravel, Express
-- **Database**: MySQL, MongoDB, PostgreSQL
+- **Database**: MySQL, MongoDB, PostgreSQL, SQLite
 <!--- **Tools**: Git, Docker, Kubernetes, Jenkins --->
 
 
