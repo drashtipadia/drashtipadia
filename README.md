@@ -12,7 +12,7 @@ I'm a passionate web developer with a love for technology and continuous learnin
 
 
 <!--- - 🔭 I’m working on several open-source projects and contributing to the community. --->
-- 🌱 I’m currently learning Android.
+- 🌱 I’m currently learning Angular.
 - 💬 Ask me about web development, Recatjs, JavaScript.
 - 📫 How to reach me: [Email]( djpadia03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/drashti-padia-3ab3512a8?utm_source=share&utm_campaign=share_via&utm_content=profile)
 - ⚡ Fun fact: I love solving puzzles, playing badminton and reading books in my free time.
