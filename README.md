@@ -12,14 +12,13 @@ I'm a passionate web developer with a love for technology and continuous learnin
 
 
 <!--- - 🔭 I’m working on several open-source projects and contributing to the community. --->
-- 🌱 I’m working on Kutumb Matrimony Project at @DigitalDoseAgency
-- 💬 Ask me about web development, Recatjs, JavaScript.
+- 🌱 I’m working at @DigitalDoseAgency
 - 📫 How to reach me: [Email]( drashtipadia1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/drashti-padia-3ab3512a8?utm_source=share&utm_campaign=share_via&utm_content=profile)
 - ⚡ Fun fact: I love solving puzzles, playing badminton and reading books in my free time.
 
 ## Languages and Tools
-- **Languages**: C, C++, HTML, Css, JavaScript, PHP, Java
-- **Frameworks**: React, Node.js, Bootstrap, TailwindCSS, Laravel, Express
+- **Languages**: C, C++, HTML, Css, JavaScript, PHP, Java, Typescript
+- **Frameworks**: React, Node.js, Bootstrap, TailwindCSS, Laravel, Express, Nextjs
 - **Database**: MySQL, MongoDB, PostgreSQL, SQLite
 <!--- **Tools**: Git, Docker, Kubernetes, Jenkins --->
 
